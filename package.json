@@ -1,0 +1,13 @@
+{
+  "name": "@backlight-dev/dei-testing.blank-l7wpx71v",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve wvf172Zb23oyHNaScUI3 --open"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
